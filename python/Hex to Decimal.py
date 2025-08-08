@@ -8,7 +8,7 @@ def hex_to_dec(s):
     step = len(s) - 1
 
     for digit in s:
-        dec_res += hex_dict.get(digit) * 16**step
+        dec_res += hex_dict[digit] * 16**step
         step -= 1
     return dec_res
 
