@@ -1,5 +1,5 @@
 # https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2
-# 1
+# 2
 
 def small_enough(a, limit,): 
     if len(a) == 0: 
