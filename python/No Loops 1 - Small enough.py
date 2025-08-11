@@ -1,5 +1,5 @@
 # https://www.codewars.com/kata/57cc4853fa9fc57a6a0002c2
-# 2
+# 23
 
 def small_enough(a, limit,): 
     if len(a) == 0: 
@@ -12,5 +12,5 @@ def small_enough(a, limit,):
             return False
     
 
-
+#1
 print(small_enough([78, 110, 110, 99, 104, 117, 107, 115], 116))
