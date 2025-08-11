@@ -12,5 +12,5 @@ def hex_to_dec(s):
         step -= 1
     return dec_res
 
-print('')
+# print('')
 print(hex_to_dec('e12ef'))
