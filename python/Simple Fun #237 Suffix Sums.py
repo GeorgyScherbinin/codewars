@@ -1,4 +1,5 @@
 # https://www.codewars.com/kata/590938089ff3d186cb00004c/train/python
+# pull req
 
 # b[0] = a[0] + a[1] + ... + a[n - 2] + a[n - 1]
 # b[1] =        a[1] + ... + a[n - 2] + a[n - 1]
@@ -11,7 +12,7 @@
 #     for i in range(len(arr)):
 #         for j in range(i, len(arr)):
 #             arr_b[i] += arr[j] 
-#     return arr_b
+#     return arr_b 
 
 def suffix_sums(arr):
     length = len(arr)
