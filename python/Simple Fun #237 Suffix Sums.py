@@ -12,6 +12,7 @@
 #     for i in range(len(arr)):
 #         for j in range(i, len(arr)):
 #             arr_b[i] += arr[j] 
+
 #     return arr_b 
 
 def suffix_sums(arr):
