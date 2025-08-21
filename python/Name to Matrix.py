@@ -1,5 +1,8 @@
 # https://www.codewars.com/kata/5a91e0793e9156ccb0003f6e/train/python
 
-def matrixfy(st): # main
-    
+
+def matrixfy(st):  #123
+    return None
+
+
     
