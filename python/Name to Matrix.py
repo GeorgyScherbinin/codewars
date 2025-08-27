@@ -19,4 +19,4 @@ def matrixfy(st):
 
 # matrixfy("Beyonce"), [["B", "e", "y"], ["o", "n", "c"], ["e", ".", "."]]
 
-print(matrixfy("Beonc"))
+print(matrixfy("G"))
