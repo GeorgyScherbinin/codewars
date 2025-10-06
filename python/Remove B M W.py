@@ -12,4 +12,4 @@ def remove_bmw(string):
         raise TypeError("This program only works for text.")
         return (f"{string}")
 
-print(remove_bmw('5m46w5b'))
+print(remove_bmw('5m46w5b1'))
